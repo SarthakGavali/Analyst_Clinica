@@ -20,3 +20,6 @@ Source: CDC (https://coach-courses-us.s3.amazonaws.com/public/courses/da_program
 Source: US Census Bureau (https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv)
  
  ### NOTE: This is student project and the data is open source data. keep in mind that these numbers are estimates, hence the sum of the numbers from the different age groups may not sum up to the total in the first columns, but that’s totally okay.
+ 
+# link to Tableau visualization of Preparing for influenza project findings:
+(https://public.tableau.com/app/profile/sarthak.gavali/viz/INFLUENZADEATHSBYSTATESUSA/Story1)
