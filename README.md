@@ -12,6 +12,8 @@ staffing needs across the country.
 ● Prioritize states with large vulnerable populations. Consider categorizing each state as low-,medium-, or high-need based on its vulnerable population count.
 ● Assess data limitations that may prevent you from conducting your desired analyses.
 
+## we used EXCEL functions to perform data transformation and integration and Tableau visualizations to present the findings.
+
 ## DATASETS:
 1. Influenza deaths by geography, time, age, and gender
 Source: CDC (https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx)
